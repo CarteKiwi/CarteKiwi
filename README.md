@@ -5,7 +5,7 @@ C# software developer for customers in various industries. Recent projects inclu
 
 #### Working Skills
 ![C# .NET](https://img.shields.io/badge/.NET-blueviolet?style=flat-square&logo=csharp) 
-![XAML](https://img.shields.io/badge/XAML-blueviolet?style=flat-square) 
+![XAML](https://img.shields.io/badge/XAML-orange?style=flat-square) 
 ![.NET MAUI](https://img.shields.io/badge/.NET-MAUI-blueviolet?style=flat-square) 
 ![Xamarin.Forms](https://img.shields.io/badge/Xamarin.Forms-blueviolet?style=flat-square&logo=xamarin) 
 ![WinUI](https://img.shields.io/badge/WinUI-green?style=flat-square) 
@@ -15,6 +15,7 @@ C# software developer for customers in various industries. Recent projects inclu
 ![EntityFramework Core](https://img.shields.io/badge/EntityFramework-Core-blueviolet?style=flat-square) 
 ![Software Architecture](https://img.shields.io/badge/Software%20Architecture-gray?style=flat-square) 
 ![Unity](https://img.shields.io/badge/Unity-red?style=flat-square) 
+![Azure](https://img.shields.io/badge/Azure-lightblue?style=flat-square) 
 
 #### Tools
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-blueviolet?style=flat-square&logo=visualstudio) 
