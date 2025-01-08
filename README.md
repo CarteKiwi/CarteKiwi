@@ -10,17 +10,17 @@ C# software developer for customers in various industries. Recent projects inclu
 ![Xamarin.Forms](https://img.shields.io/badge/Xamarin.Forms-blueviolet?style=flat-square&logo=xamarin) 
 ![WinUI](https://img.shields.io/badge/WinUI-green?style=flat-square) 
 ![WPF](https://img.shields.io/badge/WPF-blue?style=flat-square) 
-![.NET Core](https://img.shields.io/badge/.NET-Core-blueviolet?style=flat-square) 
+![.NET Core](https://img.shields.io/badge/Core-blueviolet?style=flat-square&logo=dotnet) 
 ![SQL](https://img.shields.io/badge/SQL-gray?style=flat-square) 
 ![EntityFramework Core](https://img.shields.io/badge/EntityFramework-Core-blueviolet?style=flat-square) 
 ![Software Architecture](https://img.shields.io/badge/Software%20Architecture-gray?style=flat-square) 
-![Unity](https://img.shields.io/badge/Unity-red?style=flat-square) 
 ![Azure](https://img.shields.io/badge/Azure-lightblue?style=flat-square) 
 
 #### Tools
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-blueviolet?style=flat-square&logo=visualstudio) 
 ![Visual Studio Code](https://img.shields.io/badge/VS%20Code-blue?style=flat-square&logo=visualstudio) 
 ![MSSQL](https://img.shields.io/badge/MS%20SQL-gray?style=flat-square&logo=microsoftsqlserver) 
+![Unity](https://img.shields.io/badge/Unity-green?style=flat-square&logo=unity) 
 
 #### Social
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/guillaumedemicheli) 
